@@ -203,7 +203,7 @@ void printList(node *header)
 removing duplicates
 17, 20, 21, 22, 31, 33, 41, 49, 61, 64, 77,
 
-The values between 17 and 42 are:
+The values between 18 and 42 are:
 20
 21
 22
@@ -211,5 +211,5 @@ The values between 17 and 42 are:
 33
 41
 
-reverse order is: 77, 64, 61, 49, 41, 33, 31, 22, 21, 20, 17, 
+reverse order is: 77, 64, 61, 49, 41, 33, 31, 22, 21, 20, 17,
 Press any key to continue . . .*/
