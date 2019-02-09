@@ -3,7 +3,7 @@ Simple project for C++ demonstrating some fundamental uses of a linked list incl
 # What I learned:
 *Basic Uses of linked lists
 
-*Usage of pointers with linked lists
+*Usage of pointers within linked lists
 
 *Insertion of nodes
 
